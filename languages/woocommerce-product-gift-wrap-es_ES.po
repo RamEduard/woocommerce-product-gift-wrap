@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Product Gift Wrap 1.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/woocommerce-product-gift-wrap\n"
+"POT-Creation-Date: 2014-10-08 15:16:38+00:00\n"
+"PO-Revision-Date: Wed Jul 01 2015 18:13:40 GMT-0430 (VET)\n"
+"Last-Translator: mowebjobs <info@eljuriperfumeria.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: woocommerce-product-gift-wrap.php:36
+#, c-format
+msgid "Gift wrap this item for %s?"
+msgstr "¿Papel de regalo para este ítem por %s?"
+
+#: woocommerce-product-gift-wrap.php:52
+msgid "Gift Wrapping Enabled by Default?"
+msgstr "¿Papel de Regalo Activado por Defecto?"
+
+#: woocommerce-product-gift-wrap.php:53
+msgid "Enable this to allow gift wrapping for products by default."
+msgstr "Activa para permitir papel de regalo para productos por defecto."
+
+#: woocommerce-product-gift-wrap.php:58
+msgid "Default Gift Wrap Cost"
+msgstr "Costo de Papel de Regalo por Defecto"
+
+#: woocommerce-product-gift-wrap.php:59
+msgid "The cost of gift wrap unless overridden per-product."
+msgstr "El costo de papel de regalo sobrescrito por producto."
+
+#: woocommerce-product-gift-wrap.php:65
+msgid "Gift Wrap Message"
+msgstr "Mensaje de Papel de Regalo"
+
+#: woocommerce-product-gift-wrap.php:67
+msgid ""
+"Note: <code>{checkbox}</code> will be replaced with a checkbox and "
+"<code>{price}</code> will be replaced with the gift wrap cost."
+msgstr ""
+"Nota: \n"
+"<code>{checkbox}</code> podrá ser reemplazado con un checkbox y "
+"<code>{price}</code> podrá ser reemplazado con el costo de papel de regalo."
+
+#: woocommerce-product-gift-wrap.php:69
+msgid "The checkbox and label shown to the user on the frontend."
+msgstr "El checkbox y etiqueta mostrados al usuario en el frontend."
+
+#: woocommerce-product-gift-wrap.php:117
+msgid "free"
+msgstr "gratis"
+
+#: woocommerce-product-gift-wrap.php:186 woocommerce-product-gift-wrap.php:226
+msgid "Gift Wrapped"
+msgstr "Papel de Regalo"
+
+#: woocommerce-product-gift-wrap.php:187 woocommerce-product-gift-wrap.php:188
+#: woocommerce-product-gift-wrap.php:226
+msgid "Yes"
+msgstr "Si"
+
+#: woocommerce-product-gift-wrap.php:251
+msgid "Gift Wrappable"
+msgstr "Papel de Regalo"
+
+#: woocommerce-product-gift-wrap.php:252
+msgid "Enable this option if the customer can choose gift wrapping."
+msgstr "Activa esta opción si el cliente puede elegir papel de regalo."
+
+#: woocommerce-product-gift-wrap.php:257
+msgid "Gift Wrap Cost"
+msgstr "Costo de Papel de Regalo"
+
+#: woocommerce-product-gift-wrap.php:260
+msgid "Override the default cost by inputting a cost here."
+msgstr "Sobreescribir el costo por defecto escribiendo un costo aquí."
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Product Gift Wrap"
+msgstr "Papel de Regalo de Producto WooCommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/mikejolley/woocommerce-product-gift-wrap"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add an option to your products to enable gift wrapping. Optionally charge a "
+"fee."
+msgstr ""
+"Agrega una opción a tus productos para activar papel de regalo. "
+"Opcionalmente agrega un cargo."
+
+#. Author of the plugin/theme
+msgid "Mike Jolley"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://mikejolley.com"
+msgstr ""
